@@ -9,7 +9,7 @@ body {
 
 h1 {
   text-align: center;
-  color: beige;
+  color: #F39C12;
   font-family: 'Kaushan Script', cursive;
   text-decoration: underline;
 }
@@ -21,9 +21,16 @@ h1 {
 
 .h2 {
   text-align: left;
-  color: beige;
+  color: #F39C12;
   font-family: 'Kaushan Script', cursive;
   text-decoration: underline;
+}
+
+.description {
+  text-align: left;
+  color: white;
+  font-family: sans-serif;
+  word-wrap: break-word;
 
 }
 
@@ -32,6 +39,5 @@ h1 {
   height: 100%;
   color: beige;
   font-family: 'Kaushan Script', cursive;
-  word-wrap: break-word;
 
 }
