@@ -29,9 +29,13 @@ h1 {
 .description {
   text-align: left;
   color: white;
-  font-family: sans-serif;
+  font-family: 'Kaushan Script', serif;
+  color: beige;
   word-wrap: break-word;
+}
 
+ul {
+  list-style-type: lower-latin;
 }
 
 .Container2 {
