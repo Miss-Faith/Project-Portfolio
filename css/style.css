@@ -29,25 +29,30 @@ h1 {
 .description {
   text-align: left;
   color: white;
-  font-family: 'Kaushan Script', serif;
+  font-family: serif;
   color: beige;
   word-wrap: break-word;
 }
 
 ul {
   list-style-type: none;
-  font-size: 9px;
+  font-size: 10px;
   color: blue;
 }
 
 a {
   text-decoration: none;
 	color: inherit;
+}
 
+h4 {
+  text-align: left;
+  color: #F9A825;
+  font-family: 'Kaushan Script', cursive;
 }
 
 .Container2 {
-  width: 100%;
+  width: 80%;
   height: 100%;
   color: beige;
   font-family: 'Kaushan Script', cursive;
