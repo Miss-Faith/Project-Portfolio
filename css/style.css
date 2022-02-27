@@ -1,5 +1,5 @@
 body {
- background-image: url("../images/Background2.jpg");
+ background-image: url("../images/Background.jpg");
  background-size: contain;
  background-repeat: no-repeat;
  width: 100%;
@@ -16,7 +16,7 @@ h1 {
 }
 
 .Container {
-  width: 70%;
+  width: 65%;
   max-width: 600px
   height: 250px;
   border-top: 2px solid #2196F3;
