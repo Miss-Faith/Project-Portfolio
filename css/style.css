@@ -10,10 +10,18 @@ body {
 .Container1 {
   width: 60%;
   height: 100%;
+  color: beige;
+  font-family: 'Kaushan Script', cursive;
+
 }
+
 .Container2 {
   width: 100%;
   height: 100%;
+  color: beige;
+  font-family: 'Kaushan Script', cursive;
+  word-wrap: break-word;
+
 }
 h1 {
   text-align: center;
