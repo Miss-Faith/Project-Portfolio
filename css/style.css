@@ -7,11 +7,23 @@ body {
  background-color: #121214;
 }
 
+h1 {
+  text-align: center;
+  color: beige;
+  font-family: 'Kaushan Script', cursive;
+  text-decoration: underline;
+}
+
 .Container1 {
   width: 60%;
   height: 100%;
+}
+
+.h2 {
+  text-align: left;
   color: beige;
   font-family: 'Kaushan Script', cursive;
+  text-decoration: underline;
 
 }
 
@@ -22,9 +34,4 @@ body {
   font-family: 'Kaushan Script', cursive;
   word-wrap: break-word;
 
-}
-h1 {
-  text-align: center;
-  color: beige;
-  font-family: 'Kaushan Script', cursive;
 }
