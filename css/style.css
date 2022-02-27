@@ -15,12 +15,24 @@ h1 {
 }
 
 .Container1 {
-  width: 60%;
-  height: 100%;
+  width: 65%;
+  height: 50%;
+  border-top: 2px solid #2196F3;
+  border-bottom: 2px solid #2196F3;
+  padding: 30px;
+  margin: 5px;
+}
+
+.Container2 {
+  width: 65%;
+  height: 50%;
+  border-bottom: 2px solid #2196F3;
+  padding: 30px;
+  margin: 5px;
 }
 
 .h2 {
-  text-align: left;
+  text-align: center;
   color: #FF9800;
   font-family: 'Kaushan Script', cursive;
   text-decoration: underline;
@@ -32,6 +44,7 @@ h1 {
   font-family: serif;
   color: beige;
   word-wrap: break-word;
+  font-size: 14px;
 }
 
 ol {
@@ -39,6 +52,7 @@ ol {
   list-style-type: none;
   color: beige;
   font-family: serif;
+  font-size: 14px;
 }
 
 li {
@@ -63,9 +77,4 @@ ul {
   list-style-type: lower-alpha;
   font-size: 10px;
   color: beige;
-}
-
-.Container2 {
-  width: 80%;
-  height: 100%;
 }
