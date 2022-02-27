@@ -34,15 +34,23 @@ h1 {
   word-wrap: break-word;
 }
 
-ul {
+ol {
+  list-style-type: lower-alpha;
   list-style-type: none;
-  font-size: 10px;
-  color: blue;
+  color: beige;
+  font-family: serif;
+}
+
+li {
+  color: beige;
+  font-family: serif;
+  font-size: 14px;
 }
 
 a {
   text-decoration: none;
-	color: inherit;
+	color: #2196F3;
+  font-size: 14px;
 }
 
 h4 {
@@ -51,10 +59,13 @@ h4 {
   font-family: 'Kaushan Script', cursive;
 }
 
+ul {
+  list-style-type: lower-alpha;
+  font-size: 10px;
+  color: beige;
+}
+
 .Container2 {
   width: 80%;
   height: 100%;
-  color: beige;
-  font-family: 'Kaushan Script', cursive;
-
 }
