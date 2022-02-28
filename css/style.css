@@ -40,11 +40,20 @@ h1 {
   color: beige;
   word-wrap: break-word;
   font-size: 20px;
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  font-family: serif;
+  color: beige;
+  word-wrap: break-word;
+  font-size: 20px;
+  text-align: center;
 }
 
 br {
   text-align: center;
-  color: white;
   font-family: serif;
   color: beige;
   word-wrap: break-word;
