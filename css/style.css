@@ -69,23 +69,19 @@ span {
   margin-right: auto;
   border-radius: 1px;
   padding: 1px;
-  max-width: 40%;
+  max-width: 50%;
   object-fit: scale-down;
   height: auto;
   mix-blend-mode: normal;
   float: inherit;
 }
 
-#image:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-}
-
 ol {
   list-style-type: lower-alpha;
-  list-style-type: none;
   color: beige;
   font-family: serif;
   font-size: 40px;
+  text-align: center;
   vertical-align: middle;
 }
 
@@ -93,8 +89,7 @@ li {
   color: beige;
   font-family: serif;
   font-size: 40px;
-  text-align: center;
-  vertical-align: middle;
+  align-items: center
 }
 
 a {
@@ -111,7 +106,7 @@ h4 {
 }
 
 ul {
-  list-style-type: lower-alpha;
+  list-style: none;
   text-align: center;
   color: beige;
   font-size: 40px;
