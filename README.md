@@ -3,10 +3,10 @@
 ### Description
 A simple website that gives details about my current projects to date.
 ## Demo
-Here is a working live demo: https://miss-faith.github.io/project-portfolio/
+Here is a working live demo: https://miss-faith.github.io/Project-Portfolio/
 ## Site
 ### Landing page
-https://miss-faith.github.io/project-portfolio/index.html
+https://miss-faith.github.io/Project-Portfolio/
 ### Setup Requirements
 The project does not require any installations. To view the site:
 * Have internet access on your electronic device
